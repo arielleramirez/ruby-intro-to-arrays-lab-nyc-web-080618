@@ -5,3 +5,7 @@ end
 def array_with_two_elements
   her_arrays = ["hi","bye"]
 end
+
+def first_element(array)
+  array.sh
+end 
